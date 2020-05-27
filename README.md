@@ -1,4 +1,4 @@
-### COVID-19 Fake News Predictor
+### COVID-19 Fake News Detector
 Fake news can be any content that is not truthful and is generated to convince its readers to believe in something that is not true. 
 The challenge for fake news detection comes with the democratization of news sources, and how easy modern technology makes sharing news articles in the age of social media. 
 Many would not have imagined fake news becoming a major menace in the time of the life-threatening pandemic. The world is struggling with the deluge of misinformation about the evolving pandemic. 
