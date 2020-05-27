@@ -7,3 +7,6 @@ The fake news surrounding the origin of the virus, its subsequent spread, and th
 To tackle this problem, we have come up with an interesting solution: __Covid-19 Fake News Predictor__.
 
 The Covid-19 Fake News Predictor is a model that detects fake news, without compromising privacy, and is based on deep learning algorithms.
+
+covidified.csv is the dataset file.
+Deep Learning Model is in form of jupyter notebook named Fakenews_DL.ipynb
